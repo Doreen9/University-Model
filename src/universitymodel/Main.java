@@ -30,6 +30,7 @@ public class Main {
 
         List<Student> first_year = new ArrayList<>();
         List<Student> thirdfourth_year = new ArrayList<>();
+
         List<Student> fourth_year = new ArrayList<>();
 
 
